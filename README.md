@@ -1,0 +1,2 @@
+# pytorch-CIFAR10-Lenet5
+入坑github作业：在pytorch框架下用LeNet5在CIFAR10数据集上实现分类
